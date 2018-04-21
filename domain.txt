@@ -1,1 +1,1 @@
-zproxy.lum-superproxy.io
+18.196.243.11
